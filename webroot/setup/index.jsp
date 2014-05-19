@@ -1,3 +1,3 @@
 <%
-response.sendRedirect("/TYZP/index.jsp");
+response.sendRedirect("/TYZP/index.jsp"); 
 %>
